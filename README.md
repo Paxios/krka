@@ -18,6 +18,12 @@ Aplikacija vsebuje naslednje funkcionalnosti:
 * Rešitev je prilagodljiva za mobilne naprave in
 * Še mnogo več...
 
+## Komentar komisije
+> Oddana naloga je ustrezna in delujoča, videlo se je poglobljeno razumevanje problematike in v tej smeri so bili tudi razviti posamezni poslovni procesi. 
+Samoiniciativno so implementirali podrobnosti katere, pripomorejo k boljši uporabniški izkušnji, primer tega je uporaba odzivnega oblikovanja (responsive design).   
+Pri izdelavi aplikacije so si pomagali tudi z planiranjem in upravljanjem posameznih nalog.
+
+
 ## Predstavitev rešitve (PPT)
 <a href="https://docs.google.com/presentation/d/1KuHQKkSgy5RAhTnIF1PHKx7W52185xrFgrHNRqdPqCI"> <img src="https://user-images.githubusercontent.com/22565865/109431908-16c16700-7a09-11eb-885f-f9fbf6c0b9fa.png"/></a>
 
